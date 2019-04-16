@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-image: url(https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif);
+  color: white;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+  list-style: none;
+  font-size: 1.2em;
+  padding: 0;
+}
+
+li {
+  padding: 8px;
+}
+
+span {
+  color: #f4d142;
+}
+
